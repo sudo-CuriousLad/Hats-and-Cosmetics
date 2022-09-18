@@ -19,12 +19,12 @@
     "main": [
       {
         "adapter": "kotlin",
-        "value": "com.mod_author.mod_id.ModName"
+        "value": "com.curiouslad.hat.Hat"
       }
     ]
   },
   "mixins": [
-    "mod_id.mixins.json"
+    "hat.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.14.9",
